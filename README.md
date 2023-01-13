@@ -18,4 +18,4 @@
   </p>
 </p>
 <br/><br/><br/>
-<h3 align="right">“We’re all <b>living</b> in each other’s <b><i>paranoia</i></b>.” (Alderson, Elliot)</h3>
+<h3 align="right">“We’re all <i>living</i> in each other’s <i>paranoia</i>.” (Alderson, Elliot)</h3>
