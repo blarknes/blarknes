@@ -1,6 +1,6 @@
 ![header](https://github.com/blarknes/assets/blob/main/images/the-stage-is-set.png?raw=true)
 
-<h2>I'm a developer in search of technological knowledge, mainly in <ins>information security</ins>. With a certain passion for <ins>puzzles</ins> and <ins>riddles</ins>, which drives me to always look for a solution to the next <ins>challenge</ins>.</h2>
+<h3>I'm a developer in search of technological knowledge, mainly in <ins>information security</ins>. With a certain passion for <ins>puzzles</ins> and <ins>riddles</ins>, which drives me to always look for a solution to the next <ins>challenge</ins>.</h3>
 
 <details>
   <summary>languages</summary>
@@ -14,16 +14,10 @@
 
 <details>
   <summary>status</summary>
-  <table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
-    <tr>
-      <td>
-        <img alt="profile" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=blarknes&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true&card_width=284"/>
-      </td>
-      <td border=0>
-        <img alt="languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blarknes&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true&card_width=284&layout=compact&langs_count=8" />
-      </td>
-    </tr>
-  </table>
+  <p style="vertical-align: middle;">
+    <img alt="profile" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=blarknes&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true&card_width=284"/>
+    <img alt="languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blarknes&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true&card_width=284&layout=compact&langs_count=8" />
+  </p>
 </details>
 
 <p align="right">“We’re all <b>living</b> in each other’s <b><i>paranoia</i></b>.” (Alderson, Elliot)</p>
