@@ -10,12 +10,12 @@
 </details>
 <p>
   <p align="left">
-    <img alt="java" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-    <img alt="python" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-    <img alt="javascript" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-    <img alt="javascript" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
-    <img alt="spotify" align="right" height="80px" src="https://spotify-github-profile.vercel.app/api/view?uid=21w3ttudwovzwiyjwdmqzs6cq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color=6a9955&bar_color_cover=true" />
+    <img alt="java" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+    <img alt="python" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+    <img alt="javascript" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+    <img alt="javascript" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img alt="spotify" align="right" height="70px" src="https://spotify-github-profile.vercel.app/api/view?uid=21w3ttudwovzwiyjwdmqzs6cq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color=6A9955&bar_color_cover=false" style="margin-top: -10px"/>
   </p>
 </p>
-<br/><br/><br/><br/>
+<br/><br/><br/>
 <h3 align="right">“We’re all <b>living</b> in each other’s <b><i>paranoia</i></b>.” (Alderson, Elliot)</h3>
