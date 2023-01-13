@@ -2,7 +2,7 @@
 
 <br/>
 
-<h2>I'm a developer in search of technological knowledge, mainly in <u>information security</u>. With a certain passion for <u>puzzles</u> and <u>riddles</u>, which drives me to always look for a solution to the next <u>challenge</u>.</h2>
+<h2>I'm a developer in search of technological knowledge, mainly in <ins>information security</ins>. With a certain passion for <ins>puzzles</ins> and <ins>riddles</ins>, which drives me to always look for a solution to the next <ins>challenge</ins>.</h2>
 
 
 <br/>
