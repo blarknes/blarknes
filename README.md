@@ -12,15 +12,15 @@
 <table class="images" width="100%" style="border:0px solid white; width:100%;">
   <tr style="border:0px;">
     <td width="50%" style="border:0px; width:50%">
-      <p align="left" heigth="80px" style="heigth: 80px; width: 100%">
-        <img alt="java"       height="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-        <img alt="python"     height="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-        <img alt="javascript" height="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-        <img alt="javascript" height="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
+      <p align="left" style="width: 100%">
+        <img alt="java" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+        <img alt="python" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+        <img alt="javascript" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+        <img alt="javascript" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
       </p>
     </td>
     <td width="50%" style="border:0px; width:50%">
-      <img alt="spotify" align="right" height="100%" src="https://spotify-github-profile.vercel.app/api/view?uid=21w3ttudwovzwiyjwdmqzs6cq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color=6a9955&bar_color_cover=true" />
+      <img alt="spotify" align="right" height="80px" src="https://spotify-github-profile.vercel.app/api/view?uid=21w3ttudwovzwiyjwdmqzs6cq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color=6a9955&bar_color_cover=true" />
     </td>
   </tr>
 </table>
