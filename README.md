@@ -1,8 +1,9 @@
 ![header](https://github.com/blarknes/assets/blob/main/images/the-stage-is-set.png?raw=true)
 
-<br/><br/>
+<br/>
 
-## I'm a developer in search of technological knowledge, mainly in `information security`. With a certain passion for `puzzles` and `riddles`, which drives me to always look for a solution to the next `challenge`.
+<h2>I'm a developer in search of technological knowledge, mainly in <u>information security</u>. With a certain passion for <u>puzzles</u> and <u>riddles</u>, which drives me to always look for a solution to the next <u>challenge</u>.</h2>
+
 
 <br/>
 
