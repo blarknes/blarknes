@@ -4,9 +4,7 @@
 
 <details>
   <summary>
-
   ## languages
-
   </summary>
   <p align="left">
     <img alt="java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
@@ -18,11 +16,8 @@
 
 <details>
   <summary>
-
   ## status
-
   </summary>
-
   <table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
     <tr>
       <td>
