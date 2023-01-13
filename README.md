@@ -1,11 +1,11 @@
-<img alt="header" src="https://github.com/blarknes/assets/blob/main/images/the-stage-is-set.png?raw=true" />
+<a href="https://www.youtube.com/watch?v=B4-BgDEy2AE"><img alt="header" src="https://github.com/blarknes/assets/blob/main/images/the-stage-is-set.png?raw=true" /></a>
 <h3>I'm a developer in search of technological knowledge, mainly in <ins>information security</ins>. With a certain passion for <ins>puzzles</ins> and <ins>riddles</ins>, which drives me to always look for a solution to the next <ins>challenge</ins>.</h3>
 
 <details>
   <summary>status</summary>
   <p>
-    <img alt="profile" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=blarknes&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true&card_width=284" style="padding-right:14px;" />
-    <img align="top" alt="languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blarknes&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true&card_width=284&layout=compact&langs_count=8" />
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="profile" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=blarknes&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true&card_width=284" style="padding-right:14px;" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" alt="languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blarknes&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true&card_width=284&layout=compact&langs_count=8" /></a>
   </p>
 </details>
 <p>
